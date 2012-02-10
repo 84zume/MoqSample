@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="ADAF44E5-B2BA-4FDD-87F8-C1D032A600AC" ModuleId="MoqSample" />
+  <Module PersistentId="8FE03DD6-8147-4507-BF87-5890445F8E53" ModuleId="MoqSample.Test" />
+</Modules>

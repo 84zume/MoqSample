@@ -1,0 +1,5 @@
+C:\Develop\MoqSample\MoqSample\bin\Debug\MoqSample.dll
+C:\Develop\MoqSample\MoqSample\bin\Debug\MoqSample.pdb
+C:\Develop\MoqSample\MoqSample\obj\Debug\MoqSample.csprojResolveAssemblyReference.cache
+C:\Develop\MoqSample\MoqSample\obj\Debug\MoqSample.dll
+C:\Develop\MoqSample\MoqSample\obj\Debug\MoqSample.pdb

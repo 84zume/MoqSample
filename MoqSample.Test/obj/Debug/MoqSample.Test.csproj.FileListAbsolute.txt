@@ -1,0 +1,10 @@
+C:\Develop\MoqSample\MoqSample.Test\obj\Debug\MoqSample.Test.csprojResolveAssemblyReference.cache
+C:\Develop\MoqSample\MoqSample.Test\bin\Debug\MoqSample.Test.dll
+C:\Develop\MoqSample\MoqSample.Test\bin\Debug\MoqSample.Test.pdb
+C:\Develop\MoqSample\MoqSample.Test\bin\Debug\Moq.dll
+C:\Develop\MoqSample\MoqSample.Test\bin\Debug\MoqSample.dll
+C:\Develop\MoqSample\MoqSample.Test\bin\Debug\MoqSample.pdb
+C:\Develop\MoqSample\MoqSample.Test\bin\Debug\Moq.pdb
+C:\Develop\MoqSample\MoqSample.Test\bin\Debug\Moq.xml
+C:\Develop\MoqSample\MoqSample.Test\obj\Debug\MoqSample.Test.dll
+C:\Develop\MoqSample\MoqSample.Test\obj\Debug\MoqSample.Test.pdb
